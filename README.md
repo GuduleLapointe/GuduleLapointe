@@ -19,7 +19,7 @@
 
 ## And much more...
 
-Discover more here... https://github.com/GuduleLapointe?tab=repositories
+Discover all my projects here... https://github.com/GuduleLapointe?tab=repositories
 
 ---
 [Speculoos World](https://speculoos.world) [hop://speculoos.world:8002](hop://speculoos.world:8002) | [OpenSimulator Project](https://opensimulator.org/)
