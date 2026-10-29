@@ -1,21 +1,25 @@
 # Gudule Lapointe
 
-Currently working on ...
-- [OpenSim CLI](https://github.com/GuduleLapointe/opensim-cli) — OpenSimulator command-line interface, to install, setup and manage OpenSim server
-- [W4OS WordPress Plugin](https://github.com/GuduleLapointe/w4os) — Same as CLI but in a WordPress plugin.
+## Current Projects
+- [OpenSim CLI](https://github.com/GuduleLapointe/opensim-cli) — A command-line interface for OpenSimulator, enabling the installation, configuration, and management of an OpenSim server.
+- [W4OS WordPress Plugin](https://github.com/GuduleLapointe/w4os) — The same functionality as the command-line interface (CLI), provided as a WordPress plugin.
 
-They use:
+## These projects rely on:
 
-- [OpenSim Helpers](https://github.com/GuduleLapointe/opensim-helpers) — web helpers for the core (search, currency, offline messages, and more).
-- [OpenSim Engine (API)](https://github.com/GuduleLapointe/opensim-engine) — the bridge between OS server and the CLI, the helpers, w4os plugins or third party applications.
-- [OpenSim REST PHP](https://github.com/GuduleLapointe/opensim-rest-php) — REST API client used to access Robust and OpenSim console.
+- [OpenSim Helpers](https://github.com/GuduleLapointe/opensim-helpers) — Web-based tools for core system functions (search, currency management, offline messaging, etc.).
+- [OpenSim Engine (API)](https://github.com/GuduleLapointe/opensim-engine) — The bridge between the OpenSimulator server and the command-line interface (CLI), helper tools, W4OS plugins, or third-party applications.
+- [OpenSim REST PHP](https://github.com/GuduleLapointe/opensim-rest-php) — A REST API client used to access "Robust" and the OpenSim console.
 
-To complement this, I packaged the other important parts for Debian/Ubuntu/Linux:
+## Just packages...
 
-- **opensim** — latest stable core version .deb package for APT installation (currently `opensim-0.9.3.0`).
-- **opensim-unstable** — latest development core .deb package.
-- **opensim-0.9.3.0-gloebit** .deb package
-- **opensim-0.9.3.0-opensimsearch** .deb package
+- **opensim** — A .deb package of the latest stable version of the core system, ready for installation via APT (currently `opensim-0.9.3.0`).
+- **opensim-unstable** — A .deb package of the latest development version.
+- **opensim-0.9.3.0-gloebit** — A .deb package.
+- **opensim-0.9.3.0-opensimsearch** — A .deb package.
+
+## And much more...
+
+Discover more here... https://github.com/GuduleLapointe?tab=repositories
 
 ---
-[Speculoos World](https://speculoos.world) [hop://speculoos.world:8002](hop://speculoos.world:8002) | [OpenSimulator project](https://opensimulator.org/)
+[Speculoos World](https://speculoos.world) [hop://speculoos.world:8002](hop://speculoos.world:8002) | [OpenSimulator Project](https://opensimulator.org/)
