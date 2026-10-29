@@ -1,6 +1,5 @@
-# Gudule Lapointe
-
 ## Current Projects
+
 - [OpenSim CLI](https://github.com/GuduleLapointe/opensim-cli) — A command-line interface for OpenSimulator, enabling the installation, configuration, and management of an OpenSim server.
 - [W4OS WordPress Plugin](https://github.com/GuduleLapointe/w4os) — The same functionality as the command-line interface (CLI), provided as a WordPress plugin.
 
@@ -22,4 +21,5 @@
 Discover all my projects here... https://github.com/GuduleLapointe?tab=repositories
 
 ---
+
 [Speculoos World](https://speculoos.world) [hop://speculoos.world:8002](hop://speculoos.world:8002) | [OpenSimulator Project](https://opensimulator.org/)
